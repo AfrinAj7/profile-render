@@ -1,0 +1,17 @@
+.main {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/895/567/785/nature-landscape-trees-plants-long-exposure-hd-wallpaper-preview.jpg);
+  background-size: cover;
+}
+
+.main h1 {
+  margin-top: -50px;
+  color: aqua;
+}
+.main h3 {
+  color: whitesmoke;
+}
